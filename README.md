@@ -263,15 +263,17 @@ Do not upload the original backup if its redistribution license is unclear. Inst
 6. Refresh the report and verify the validation totals.
 
 ## Dashboard Screenshots
+### Executive Overview
+<img width="1357" height="728" alt="Executive Overview" src="https://github.com/user-attachments/assets/20b8f3a2-a3d5-4f96-8bf8-9fff8c709d56" />
+### Inventory Risk
+<img width="1318" height="727" alt="Inventory Risk" src="https://github.com/user-attachments/assets/5f50ac6d-8842-4b5d-b419-7350872be637" />
+### Returns Monitoring
+<img width="1322" height="732" alt="Return_Monitoring" src="https://github.com/user-attachments/assets/4d40dac2-5414-4636-adea-eea2a3cbb56e" />
+### Suppliers and Purchases
+<img width="1352" height="735" alt="Supplier_Purachses" src="https://github.com/user-attachments/assets/d04e826e-af6d-41a2-afc1-a9c8c999a3db" />
 
-Add exported screenshots after completing the final formatting:
 
-```markdown
-![Executive Overview](screenshots/executive_overview.png)
-![Inventory Risk](screenshots/inventory_risk.png)
-![Suppliers and Purchases](screenshots/suppliers_purchases.png)
-![Returns Monitoring](screenshots/returns_monitoring.png)
-```
+
 
 ## Author
 
