@@ -84,7 +84,7 @@ Identifies medicines requiring action based on recent demand, expiry status, inv
 
 Shows purchasing value, supplier concentration, units received, active supplier status, and monthly purchasing patterns.
 
-![Suppliers and Purchases](ScreenShots/Supplier_Puraches.png)
+![Suppliers and Purchases](ScreenShots/Supplier_Purachses.png)
 
 ### Returns and Data Quality
 
