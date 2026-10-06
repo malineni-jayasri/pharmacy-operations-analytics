@@ -72,25 +72,25 @@ The main business question was:
 
 Provides a management-level view of sales, inventory, purchasing, suppliers, and returns.
 
-![Executive Overview](screenshots/Executive%20Overview.png)
+![Executive Overview](ScreenShots/Executive%20Overview.png)
 
 ### Inventory Risk and Recommended Actions
 
 Identifies medicines requiring action based on recent demand, expiry status, inventory cost, current stock, and estimated days of supply.
 
-![Inventory Risk and Recommended Actions](screenshots/Inventory%20Risk.png)
+![Inventory Risk and Recommended Actions](ScreenShots/Inventory%20Risk.png)
 
 ### Suppliers and Purchases
 
 Shows purchasing value, supplier concentration, units received, active supplier status, and monthly purchasing patterns.
 
-![Suppliers and Purchases](screenshots/Supplier_Puraches.png)
+![Suppliers and Purchases](ScreenShots/Supplier_Puraches.png)
 
 ### Returns and Data Quality
 
 Monitors return activity and provides transaction-level evidence for validating refunds against the original sale.
 
-![Returns and Data Quality](screenshots/Return_Monitoring.png)
+![Returns and Data Quality](ScreenShots/Return_Monitoring.png)
 
 ## Key Insights
 
@@ -195,23 +195,6 @@ Source: [Pharmacy Management System dataset on Kaggle](https://www.kaggle.com/da
 - Historical purchase-cost coverage was incomplete, so profit and margin were excluded from the final analysis.
 - Supplier lead time, fill rate, delivery reliability, product quality, defects, and contract terms were unavailable.
 - The dataset does not include multiple pharmacy locations, supplier return eligibility, or post-action results.
-
-## Repository Structure
-
-```text
-pharmacy-operations-analytics/
-├── README.md
-├── SQL/
-│   └── validation and analytical scripts
-├── powerbi/
-│   └── Pharmacy_Operations_Analytics.pbix
-└── screenshots/
-    ├── Executive Overview.png
-    ├── Home_Page.png
-    ├── Inventory Risk.png
-    ├── Return_Monitoring.png
-    └── Supplier_Puraches.png
-```
 
 ## Author
 
