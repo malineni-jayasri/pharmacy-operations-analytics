@@ -72,25 +72,25 @@ The main business question was:
 
 Provides a management-level view of sales, inventory, purchasing, suppliers, and returns.
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/Executive%20Overview.png)
 
 ### Inventory Risk and Recommended Actions
 
 Identifies medicines requiring action based on recent demand, expiry status, inventory cost, current stock, and estimated days of supply.
 
-![Inventory Risk and Recommended Actions](screenshots/inventory_risk.png)
+![Inventory Risk and Recommended Actions](screenshots/Inventory%20Risk.png)
 
 ### Suppliers and Purchases
 
 Shows purchasing value, supplier concentration, units received, active supplier status, and monthly purchasing patterns.
 
-![Suppliers and Purchases](screenshots/suppliers_purchases.png)
+![Suppliers and Purchases](screenshots/Supplier_Puraches.png)
 
 ### Returns and Data Quality
 
 Monitors return activity and provides transaction-level evidence for validating refunds against the original sale.
 
-![Returns and Data Quality](screenshots/returns_monitoring.png)
+![Returns and Data Quality](screenshots/Return_Monitoring.png)
 
 ## Key Insights
 
@@ -206,10 +206,11 @@ pharmacy-operations-analytics/
 ├── powerbi/
 │   └── Pharmacy_Operations_Analytics.pbix
 └── screenshots/
-    ├── executive_overview.png
-    ├── inventory_risk.png
-    ├── suppliers_purchases.png
-    └── returns_monitoring.png
+    ├── Executive Overview.png
+    ├── Home_Page.png
+    ├── Inventory Risk.png
+    ├── Return_Monitoring.png
+    └── Supplier_Puraches.png
 ```
 
 ## Author
